@@ -1,0 +1,6 @@
+YouTubeTests\UserAccessTests.class
+driver\DriverSingleton.class
+YouTubePages\AbstractPage.class
+YouTubePages\YouTubeVideoPage.class
+YouTubePages\YouTubeMainPage.class
+YouTubeTests\PressLike.class
